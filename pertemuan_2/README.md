@@ -61,6 +61,8 @@ Banyak fitur dan paket dalam Flutter bergantung pada pengetahuan tentang Dart. M
 **6. Debugging dan Pemeliharaan**
 Memahami Dart memudahkan dalam proses debugging dan pemeliharaan kode. Jika Anda memahami bahasa di balik Flutter, Anda akan lebih mudah menemukan dan memperbaiki masalah dalam aplikasi.
 
+---
+
 #### Soal 3
 Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.
 
@@ -86,6 +88,7 @@ bahasa Dart perlu memperhatikan fitur-fitur penting seperti berikut:
 
 Eksekusi kode Dart dapat beroperasi dalam dua mode — kompilasi Just-In-Time (JIT) atau Kompilasi Ahead-Of-Time (AOT). 
 
+---
 
 #### Soal 4
 Buatlah slide yang berisi penjelasan dan contoh eksekusi kode tentang perbedaan Null Safety dan Late variabel ! **(Khusus soal ini kelompok berupa link google slide)**
