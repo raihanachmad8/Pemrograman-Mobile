@@ -1,6 +1,25 @@
-Nama   : Achmad Raihan Fahrezi Effendy \
-NIM    : 2241720192 \
-Kelas  : TI-3D
+# Pemrograman Mobile - Pertemuan 2
+
+<table>
+  <thead>
+    <th colspan="2" style="text-align: center;">Pertemuan 2</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NIM</td>
+      <td>2241720192</td>
+    </tr>
+    <tr>
+      <td>Nama</td>
+      <td>Achmad Raihan Fahrezi Effendy</td>
+    </tr>
+    <tr>
+      <td>Kelas</td>
+      <td>TI-3D</td>
+    </tr>
+</table>
+
+---
 
 <h3 style="text-align: center; font-weight: bold;">
 Pengantar Bahasa Pemrograman Dart - Bagian 1
@@ -17,12 +36,12 @@ Dalam codelab ini, Anda akan meninjau dasar-dasar bahasa Dart dan mengidentifika
 #### Soal 1
 Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta!
 <div align="center">
-<img src="../assets/pertemuan_2/image_1.png" alt="image">
+<img src="assets/pertemuan_2/image_1.png" alt="image">
 </div>
 
 Output yang diminta:
 <div align="center">
-<img src="../assets/pertemuan_2/image_2.png" alt="image">
+<img src="assets/pertemuan_2/image_2.png" alt="image">
 </div>
 
 ##### Jawaban
@@ -37,7 +56,7 @@ void main() {
 
 Output:
 <div align="center">
-<img src="../assets/pertemuan_2/output_1.png" alt="image">
+<img src="assets/pertemuan_2/output_1.png" alt="image">
 </div>
 
 ---

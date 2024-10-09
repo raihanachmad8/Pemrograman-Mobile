@@ -1,6 +1,25 @@
-Nama   : Achmad Raihan Fahrezi Effendy \
-NIM    : 2241720192 \
-Kelas  : TI-3D
+# Pemrograman Mobile - Pertemuan 4
+
+<table>
+  <thead>
+    <th colspan="2" style="text-align: center;">Pertemuan 4</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NIM</td>
+      <td>2241720192</td>
+    </tr>
+    <tr>
+      <td>Nama</td>
+      <td>Achmad Raihan Fahrezi Effendy</td>
+    </tr>
+    <tr>
+      <td>Kelas</td>
+      <td>TI-3D</td>
+    </tr>
+</table>
+
+---
 
 <h3 style="text-align: center; font-weight: bold;">
 Pengantar Bahasa Pemrograman Dart - Bagian 3
@@ -50,7 +69,7 @@ print(list[1]);
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan!
 
-![alt text](/assets/pertemuan_4/output_1.png)
+![alt text](assets/pertemuan_4/output_1.png)
 
 Penjelasan
 
@@ -79,7 +98,7 @@ void main() {
 ```
 
 Output
-![alt text](/assets/pertemuan_4/output_2.png)
+![alt text](assets/pertemuan_4/output_2.png)
 
 Penjelasan
 
@@ -143,7 +162,7 @@ Dokumentasikan code dan hasil di console, lalu buat laporannya.
 
 Output
 
-![alt text](/assets/pertemuan_4/output_4.png)
+![alt text](assets/pertemuan_4/output_4.png)
 
 Penambahan Kode
 
@@ -178,7 +197,7 @@ Penjelasan
 
 Output
 
-![alt text](/assets/pertemuan_4/output_5.png)
+![alt text](assets/pertemuan_4/output_5.png)
 
 Penjelasan
 
@@ -220,7 +239,7 @@ print(nobleGases);
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 
-![alt text](/assets/pertemuan_4/output_6.png)
+![alt text](assets/pertemuan_4/output_6.png)
 
 Penjelasan
 
@@ -249,7 +268,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki.
 
 Tambahkan elemen nama dan NIM Anda pada tiap variabel di atas (`gifts`, `nobleGases`, `mhs1`, dan `mhs2`). Dokumentasikan hasilnya dan buat laporannya!
 
-![alt text](/assets/pertemuan_4/output_7.png)
+![alt text](assets/pertemuan_4/output_7.png)
 
 Terjadi error jika kita mendefinisikan key dengan `String` dikarenakan beberapa tipe default untuk variable nobleGases, dan mhs2 key harus bertipe int maka kita harus mengubah key nya menjadi int
 
@@ -294,7 +313,7 @@ void main() {
 
 Output
 
-![alt text](/assets/pertemuan_4/output_8.png)
+![alt text](assets/pertemuan_4/output_8.png)
 
 Jadi disini saya mengubah beberapa key yang kosong dan mengisi nama dan nim untuk `gifts` dan `mhs1` saya dapat mendefinisikan key pada map dapat berisi string, sedangkan
 untuk `nobleGases` dan `mhs2` saya dapat mendefinisikan key pada map hanya dapat berisi int
@@ -323,7 +342,7 @@ print(list2.length);
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 
-![alt text](/assets/pertemuan_4/output_9.png)
+![alt text](assets/pertemuan_4/output_9.png)
 
 Penjelasan
 Terjadi error, kemungkinan besar itu disebabkan oleh kesalahan penulisan atau kesalahan nama variabel (`list1` yang tidak dideklarasikan)
@@ -341,7 +360,7 @@ void main() {
 ```
 
 Output
-![alt text](/assets/pertemuan_4/output_10.png)
+![alt text](assets/pertemuan_4/output_10.png)
 
 Penjelasan
 Disini kita cukup mengubah `print(list1);` menjadi `print(list);` karena `list1` tidak ada yang telah di deklarasi yaitu `list`
@@ -361,7 +380,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki.
 
 Tambahkan variabel list berisi NIM Anda menggunakan Spread Operators. Dokumentasikan hasilnya dan buat laporannya!
 
-![alt text](/assets/pertemuan_4/output_11.png)
+![alt text](assets/pertemuan_4/output_11.png)
 
 Penjelasan
 Terjadi kesalahan karena varibel `list1` belum di deklarasi
@@ -385,7 +404,7 @@ void main() {
 
 Output
 
-![alt text](/assets/pertemuan_4/output_12.png)
+![alt text](assets/pertemuan_4/output_12.png)
 
 Penjelasan
 `...?list1` memeriksa apakah `list1` bukan `null` sebelum mengekspansi elemen-elemen `list1` ke dalam `list3`.
@@ -412,7 +431,7 @@ void main() {
 
 Output
 
-![alt text](/assets/pertemuan_4/output_13.png)
+![alt text](assets/pertemuan_4/output_13.png)
 
 Penjelasan
 `listWithNim` adalah list yang menggabungkan elemen dari `list` dengan `nim`
@@ -429,7 +448,7 @@ print(nav);
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Tunjukkan hasilnya jika variabel `promoActive` ketika `true` dan `false`.
 
 Output
-![alt text](/assets/pertemuan_4/output_14.png)
+![alt text](assets/pertemuan_4/output_14.png)
 
 Penjelasan
 Varibel `promoActive` tidak dideklarasikan
@@ -462,7 +481,7 @@ void main() {
 
 Output
 
-![alt text](/assets/pertemuan_4/output_15.png)
+![alt text](assets/pertemuan_4/output_15.png)
 
 Penjelasan
 
@@ -482,7 +501,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Tunjukkan hasilnya jika
 
 Output
 
-![alt text](/assets/pertemuan_4/output_16.png)
+![alt text](assets/pertemuan_4/output_16.png)
 
 Penjelasan
 Varibel `login` tidak dideklarasikan
@@ -520,7 +539,7 @@ void main() {
 
 Output
 
-![alt text](/assets/pertemuan_4/output_17.png)
+![alt text](assets/pertemuan_4/output_17.png)
 
 Penjelasan
 
@@ -542,7 +561,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Jelaskan manfaat **Coll
 
 Output
 
-![alt text](/assets/pertemuan_4/output_18.png)
+![alt text](assets/pertemuan_4/output_18.png)
 
 Penjelasan
 `listOfStrings` dibuat menggunakan collection for, yang menghasilkan list dari string dengan format `#i` untuk setiap elemen `i` dalam `listOfInts`
@@ -576,7 +595,7 @@ Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jela
 
 Output
 
-![alt text](/assets/pertemuan_4/output_19.png)
+![alt text](assets/pertemuan_4/output_19.png)
 
 Penjelasan
 Kode ini akan berjalan dengan baik dan mencetak nilai dari `record`.
@@ -596,7 +615,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Gunakan fungsi `tukar()
 
 Output
 
-![alt text](/assets/pertemuan_4/output_20.png)
+![alt text](assets/pertemuan_4/output_20.png)
 
 Penjelasan
 Terjadi kesalahan fungsi tukar mendefinisikan parameter dengan tipe (int, int), sementara record yang diberikan dalam main tidak cocok dengan tipe tersebut.
@@ -619,7 +638,7 @@ void main() {
 
 Output
 
-![alt text](/assets/pertemuan_4/output_21.png)
+![alt text](assets/pertemuan_4/output_21.png)
 
 Penjelasan
 
@@ -662,7 +681,7 @@ void main() {
 }
 ```
 
-![alt text](/assets/pertemuan_4/output_22.png)
+![alt text](assets/pertemuan_4/output_22.png)
 
 penjelasan
 `mahasiswa` berisi dua field, nama dan NIM.
@@ -684,7 +703,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Gantilah salah satu isi
 
 Output
 
-![alt text](/assets/pertemuan_4/output_23.png)
+![alt text](assets/pertemuan_4/output_23.png)
 
 Penjelasan
 Dengan menggunakan notasi $ untuk elemen posisi dan notasi titik (.) untuk elemen bernama, kita bisa dengan mudah mengakses dan memanipulasi data dalam record.

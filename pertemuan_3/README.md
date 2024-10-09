@@ -1,6 +1,25 @@
-Nama   : Achmad Raihan Fahrezi Effendy \
-NIM    : 2241720192 \
-Kelas  : TI-3D
+# Pemrograman Mobile - Pertemuan 3
+
+<table>
+  <thead>
+    <th colspan="2" style="text-align: center;">Pertemuan 3</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NIM</td>
+      <td>2241720192</td>
+    </tr>
+    <tr>
+      <td>Nama</td>
+      <td>Achmad Raihan Fahrezi Effendy</td>
+    </tr>
+    <tr>
+      <td>Kelas</td>
+      <td>TI-3D</td>
+    </tr>
+</table>
+
+---
 
 <h3 style="text-align: center; font-weight: bold;">
 Pengantar Bahasa Pemrograman Dart - Bagian 2
@@ -43,7 +62,7 @@ if (test == "test2") print("Test2 again");
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan!
 
-![alt text](../assets/pertemuan_3/output_1.png)
+![alt text](..assets/pertemuan_3/output_1.png)
 
 Ketika menjalankan kode tersebut, akan terjadi kesalahan sintaksis. Masalah dalam program tersebut adalah
 
@@ -68,7 +87,7 @@ if (test == "test2") print("Test2 again");
 ```
 Output
 
-![alt text](/assets/pertemuan_3/output_2.png)
+![alt text](assets/pertemuan_3/output_2.png)
 
 #### Praktikum 1 - Langkah 3
 
@@ -83,7 +102,7 @@ if (test) {
 
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan if/else.
 
-![alt text](/assets/pertemuan_3/output_3.png)
+![alt text](assets/pertemuan_3/output_3.png)
 
 Ketika menjalankan kode tersebut, akan terjadi kesalahan sintaksis. Masalah dalam program tersebut adalah
 
@@ -101,7 +120,7 @@ if (test == "true") {
 
 Output
 
-![alt text](/assets/pertemuan_3/output_4.png)
+![alt text](assets/pertemuan_3/output_4.png)
 
 > Equality checking and type coercion
 Di JavaScript, pemeriksaan dua variable dapat menggunakan double "==" atau triple "===". Untuk double "==" hanya membandingkan nilainya saja, sedangkan triple "===" dibandingkan dengan tipe datanya. Contohnya dalam JavaScript, "7" == 7 akan bernilai true, tetapi "7" === 7 akan bernilai false. Ini bisa jadi sebuah bug jika lupa dengan operator ini. Dart cukup menggunakan double "==" untuk membandingkan nilai sekaligus tipe datanya.
@@ -133,7 +152,7 @@ while (counter < 33) {
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 
-![alt text](/assets/pertemuan_3/output_5.png)
+![alt text](assets/pertemuan_3/output_5.png)
 
 Ketika menjalankan kode tersebut, akan terjadi kesalahan sintaksis. Masalah dalam program tersebut adalah
 
@@ -193,7 +212,7 @@ for (Index = 10; index < 27; index) {
 
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 
-![alt text](/assets/pertemuan_3/output_7.png)
+![alt text](assets/pertemuan_3/output_7.png)
 
 Ketika menjalankan kode tersebut, akan terjadi kesalahan sintaksis. Masalah dalam program tersebut adalah
 
@@ -214,7 +233,7 @@ void main() {
 
 Output
 
-![alt text](/assets/pertemuan_3/output_8.png)
+![alt text](assets/pertemuan_3/output_8.png)
 
 #### Praktikum 3 - Langkah 3
 
@@ -228,7 +247,7 @@ print(index);
 
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan for dan break-continue.
 
-![alt text](/assets/pertemuan_3/output_9.png)
+![alt text](assets/pertemuan_3/output_9.png)
 
 Ketika menjalankan kode tersebut, akan terjadi kesalahan sintaksis. Masalah dalam program tersebut adalah
 
@@ -251,7 +270,7 @@ void main() {
 
 Output
 
-![alt text](/assets/pertemuan_3/output_10.png)
+![alt text](assets/pertemuan_3/output_10.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BCiyJOb7X-w" title="Dart FOR Loop and how it works internally. Dart Tutorial for Flutter #5.2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -286,7 +305,7 @@ void main() {
 
 Output
 
-![alt text](/assets/pertemuan_3/output_11.png)
+![alt text](assets/pertemuan_3/output_11.png)
 
 Penjelasan 
 
