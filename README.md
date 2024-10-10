@@ -23,3 +23,4 @@ Pemrograman Mobile
 3. [Pengantar Bahasa Pemrograman Dart - Bagian 3](/pertemuan_4/README.md)
 4. [Aplikasi Pertama dan Widget Dasar Flutter](/pertemuan_5/README.md)
 5. [Layout dan Navigasi](/pertemuan_6/README.md)
+6. [Manajemen Plugin](/pertemuan_7/README.md)
