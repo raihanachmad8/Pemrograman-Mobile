@@ -1,3 +1,5 @@
+# Pemrograman Mobile
+
 <table>
   <tbody>
     <tr>
@@ -14,9 +16,9 @@
     </tr>
 </table>
 
-<h3 style="text-align: center; font-weight: bold;">
-Pemrograman Mobile
-</h3>
+---
+
+Daftar Isi
 
 1. [Pengantar Bahasa Pemrograman Dart - Bagian 1](/pertemuan_2/README.md) 
 2. [Pengantar Bahasa Pemrograman Dart - Bagian 2](/pertemuan_3/README.md) 
